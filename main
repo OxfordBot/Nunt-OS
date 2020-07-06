@@ -1,10 +1,1 @@
-# Nunt OS by Github @OxfordBot,
-# Written in Python 3.6.9 on Ubuntu 18.04 LTS (Linux),
-# Started on July 6, 2020, 19:09 PM (+8 GMT),
-
-,# Import Modules,
-
-,import os,
-import turtle,
-import twilio,
-import smtplib
+# Nunt OS by Github @OxfordBot\# Written in Python 3.6.9 on Ubuntu 18.04 LTS (Linux)\# Started on July 6, 2020, 19:27 PM\ \# Import Modules\ \import turtle\import os\import sys\import twilio\import wikipedia\import request\from bs4 import BeautifulSoup\
